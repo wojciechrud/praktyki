@@ -5,3 +5,8 @@
 ## [Zadanie 2 - Zamiana](https://github.com/wojciechrud/praktyki/blob/main/Zadanie%202%20Zamiana/Zadanie2/Program.cs)
 ## [Zadanie 3 - Losowy](https://github.com/wojciechrud/praktyki/blob/main/Zadanie%203%20Losowy/Zadanie3/Zadanie3/Program.cs)
 ## [Zadanie 4 - NBP](https://github.com/wojciechrud/praktyki/blob/main/Zadanie%204%20NBP/Zadanie4/Zadanie4/Program.cs)
+
+## Zadanie MVC
+### [Program](https://github.com/wojciechrud/praktyki/blob/main/Zadanie%201%20NET%20MVC/ZadanieMVC/ZadanieMVC/Program.cs)
+### [Views.Klients](https://github.com/wojciechrud/praktyki/tree/main/Zadanie%201%20NET%20MVC/ZadanieMVC/ZadanieMVC/Views/Klients)
+### [Models.Klient](https://github.com/wojciechrud/praktyki/blob/main/Zadanie%201%20NET%20MVC/ZadanieMVC/ZadanieMVC/Models/Klient.cs)
